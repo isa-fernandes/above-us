@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 750e2667ce8953446908eb355ce94660
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attackPoint: {instanceID: 0}
+  - playerAttack: {fileID: 8300000, guid: a597e7c44c19a18489dddac66f0bf61b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
